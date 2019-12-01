@@ -12,7 +12,9 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0",
-    "typescript": "^3.7.2"
+    "styled-components": "^4.4.1",
+    "typescript": "^3.7.2",
+    "unstated-next": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^4.4.0"
   }
 }
